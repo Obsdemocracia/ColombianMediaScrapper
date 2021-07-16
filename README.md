@@ -21,3 +21,4 @@ Existen funciones para los siguientes medios:
 - Diario Magdalena 
 - El Vallenato
 - La Nación 
+- La Patilla
